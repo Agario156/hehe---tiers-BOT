@@ -1,3 +1,4 @@
+HEAD
 node_modules/
 .env
 *.json
@@ -6,3 +7,23 @@ node_modules/
 ! README.md
 ! package.json
 ! .gitignore
+# Dependências
+node_modules/
+
+# Arquivos de ambiente e configuração
+.env
+
+# Arquivos de dados do bot (não subir)
+data.json
+cooldowns.json
+blacklist.json
+status_msg.json
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Opcional: ignorar package-lock se preferir (geralmente é bom subir)
+# package-lock.json
+>>>>>>> 09f75062e38ebf77c93cd3f35fb9ef042f2ef30e
