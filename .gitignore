@@ -1,8 +1,19 @@
+# Dependências
 node_modules/
+
+# Arquivos de ambiente e configuração
 .env
-*.json
-# só não ignore os .json de exemplo se quiser, mas normalmente ignoramos todos os dados
-! .env.example
-! README.md
-! package.json
-! .gitignore
+
+# Arquivos de dados do bot (não subir)
+data.json
+cooldowns.json
+blacklist.json
+status_msg.json
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Opcional: ignorar package-lock se preferir (geralmente é bom subir)
+# package-lock.json
