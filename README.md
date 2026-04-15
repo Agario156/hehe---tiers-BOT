@@ -33,5 +33,5 @@ Observação
 
 Autor
 
-Feito por você
+Feito por
 GitHub: https://github.com/GFgeferson
