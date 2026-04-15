@@ -31,4 +31,7 @@ Observação
 
 ---
 
-Feito com <3
+Autor
+
+Feito por você
+GitHub: https://github.com/GFgeferson
